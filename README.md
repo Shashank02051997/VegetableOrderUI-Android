@@ -11,6 +11,10 @@ Check out the new style for App Design aims for the Vegetable Order Service usin
 
 <img src="https://github.com/Shashank02051997/VegetableOrderUI-Android/blob/main/Screenshots/Screenshot%203.jpg">
 
+## Design Credits
+<i>Design-credit: <a href="https://www.facebook.com/alvian.teddy02">Alvian Teddy( Facebook Page )</a></i>
+
+
 ## Contributing
 
 Please fork this repository and contribute back using
