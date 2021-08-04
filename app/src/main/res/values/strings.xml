@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Vegetables Order App UI</string>
+
+    <!-- Screen route -->
+    <string name="splash">Splash</string>
+    <string name="onboarding">OnBoarding</string>
+    <string name="dashboard">Dashboard</string>
+
+    <string name="onboarding_heading_1">Kesegaran Terjamin</string>
+    <string name="onboarding_heading_2">Langsung Dipetik</string>
+    <string name="onboarding_heading_3">Diantar Langsung</string>
+    <string name="onboarding_description_1">Dapatkan sayuran dalam kondisi segar dan kualitas terbaik</string>
+    <string name="onboarding_description_2">Sayuran yang kami sediakan dalam kondisi terbaik langsung dipetik dari kebun</string>
+    <string name="onboarding_description_3">Setelah sayuran dipetik dari kebun kami langsung mengirimkannya untuk Anda</string>
+
+    <string name="text_back_icon">Back Icon</string>
+    <string name="text_filter_icon">Filter Icon</string>
+    <string name="text_search_icon">Search Icon</string>
+    <string name="text_add_icon">Add Icon</string>
+    <string name="text_heart_icon">Heart Icon</string>
+
+</resources>
