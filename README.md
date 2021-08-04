@@ -5,7 +5,11 @@ Check out the new style for App Design aims for the Vegetable Order Service usin
 
 **Please click the image below to enlarge.**
 
-<img src="">
+<img src="https://github.com/Shashank02051997/VegetableOrderUI-Android/blob/main/Screenshots/Screenshot%201.jpg">
+
+<img src="https://github.com/Shashank02051997/VegetableOrderUI-Android/blob/main/Screenshots/Screenshot%202.jpg">
+
+<img src="https://github.com/Shashank02051997/VegetableOrderUI-Android/blob/main/Screenshots/Screenshot%203.jpg">
 
 ## Contributing
 
