@@ -44,7 +44,7 @@ fun HomeView(actions: MainActions) {
                 horizontalArrangement = Arrangement.SpaceBetween,
                 modifier = Modifier
                     .fillMaxWidth()
-                    .padding(horizontal = 16.dp)
+                    .padding(horizontal = 12.dp)
             ) {
                 Image(
                     modifier = Modifier.size(24.dp),

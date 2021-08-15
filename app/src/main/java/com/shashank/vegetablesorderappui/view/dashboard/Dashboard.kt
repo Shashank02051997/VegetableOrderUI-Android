@@ -37,7 +37,7 @@ fun Dashboard(
         { section ->
             when (section) {
                 DashboardSection.Home -> HomeView(actions)
-                //DashboardSection.Devices -> Devices(actions)
+                DashboardSection.List -> VegetableListView(actions)
             }
         }
     }
