@@ -26,6 +26,7 @@ import com.shashank.vegetablesorderappui.model.Vegetable
 import com.shashank.vegetablesorderappui.navigation.MainActions
 import com.shashank.vegetablesorderappui.theme.*
 
+@ExperimentalMaterialApi
 @Composable
 fun VegetableListView(actions: MainActions) {
 
@@ -109,7 +110,10 @@ fun VegetableListView(actions: MainActions) {
                                 .fillParentMaxWidth(0.5f)
                                 .padding(4.dp),
                             shape = RoundedCornerShape(16.dp),
-                            backgroundColor = item.cardBg
+                            backgroundColor = item.cardBg,
+                            onClick = {
+                                actions.gotoVegetableDetail()
+                            }
                         ) {
                             Column(
                                 modifier = Modifier

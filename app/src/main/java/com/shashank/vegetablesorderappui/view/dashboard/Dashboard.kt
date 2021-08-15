@@ -14,6 +14,7 @@ import androidx.compose.ui.unit.dp
 import com.shashank.vegetablesorderappui.R
 import com.shashank.vegetablesorderappui.navigation.MainActions
 
+@ExperimentalMaterialApi
 @Composable
 fun Dashboard(
     actions: MainActions,

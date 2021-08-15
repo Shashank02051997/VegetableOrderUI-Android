@@ -8,6 +8,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.shashank.vegetablesorderappui.view.dashboard.Dashboard
+import com.shashank.vegetablesorderappui.view.dashboard.VegetableDetail
 import com.shashank.vegetablesorderappui.view.welcome.OnBoardingScreenView
 import com.shashank.vegetablesorderappui.view.welcome.SplashScreenView
 
@@ -33,6 +34,11 @@ fun NavGraph() {
         composable(Screen.Dashboard.route) {
             Dashboard(actions)
         }
+
+        //Vegetable Detail
+        composable(Screen.VegetableDetail.route) {
+            VegetableDetail(actions)
+        }
     }
 }
 
@@ -54,5 +60,9 @@ class MainActions(private val navController: NavHostController) {
     val gotoOnDashboard: () -> Unit = {
         navController.popBackStack()
         navController.navigate(Screen.Dashboard.route)
+    }
+
+    val gotoVegetableDetail: () -> Unit = {
+        navController.navigate(Screen.VegetableDetail.route)
     }
 }

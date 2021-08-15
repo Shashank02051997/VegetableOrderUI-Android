@@ -5,6 +5,7 @@
     <string name="splash">Splash</string>
     <string name="onboarding">OnBoarding</string>
     <string name="dashboard">Dashboard</string>
+    <string name="vegetabledetail">Vegetable Detail</string>
 
     <string name="onboarding_heading_1">Kesegaran Terjamin</string>
     <string name="onboarding_heading_2">Langsung Dipetik</string>
