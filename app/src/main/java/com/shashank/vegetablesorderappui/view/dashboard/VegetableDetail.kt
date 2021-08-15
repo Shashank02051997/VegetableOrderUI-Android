@@ -87,6 +87,7 @@ fun VegetableDetail(actions: MainActions) {
         Column(
             modifier = Modifier
                 .fillMaxHeight()
+                .clip(RoundedCornerShape(16.dp, 16.dp, 0.dp, 0.dp))
                 .background(white)
                 .padding(24.dp)
         )
