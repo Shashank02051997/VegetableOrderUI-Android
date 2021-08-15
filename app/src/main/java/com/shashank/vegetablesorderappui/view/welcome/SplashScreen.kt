@@ -35,6 +35,6 @@ fun SplashScreenView(actions: MainActions) {
 
     produceState(initialValue = -1) {
         delay(3000)
-        actions.gotoVegetableDetail()
+        actions.gotoOnBoarding()
     }
 }
