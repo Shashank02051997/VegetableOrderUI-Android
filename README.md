@@ -1,4 +1,5 @@
 # VegetableOrderUI-Android
+
 Check out the new style for App Design aims for the Vegetable Order Service using jetpack compose...😉😀😁😎
 
 ## Screenshots
@@ -36,3 +37,7 @@ but will be thoroughly reviewed .
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
 <a href="https://www.buymeacoffee.com/mXUuDW7" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/VegetableOrderUI-Android/count.svg" alt ="Loading">
