@@ -39,6 +39,7 @@ fun Dashboard(
             when (section) {
                 DashboardSection.Home -> HomeView(actions)
                 DashboardSection.List -> VegetableListView(actions)
+                else -> {}
             }
         }
     }
