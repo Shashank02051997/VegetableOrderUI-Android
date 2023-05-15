@@ -6,11 +6,14 @@ Check out the new style for App Design aims for the Vegetable Order Service usin
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/Shashank02051997/VegetableOrderUI-Android/blob/main/Screenshots/Screenshot%201.jpg">
+<img src="https://github.com/Shashank02051997/VegetableOrderUI-Android/assets/20399094/5490ec29-5d5a-4469-a106-cbc66bae4ee6">
 
-<img src="https://github.com/Shashank02051997/VegetableOrderUI-Android/blob/main/Screenshots/Screenshot%202.jpg">
+<img src="https://github.com/Shashank02051997/VegetableOrderUI-Android/assets/20399094/38222342-1689-4965-bf27-9b9923033fd8">
 
-<img src="https://github.com/Shashank02051997/VegetableOrderUI-Android/blob/main/Screenshots/Screenshot%203.jpg">
+<img src="https://github.com/Shashank02051997/VegetableOrderUI-Android/assets/20399094/981a7a9f-83a5-4b7d-ad11-9344bd497940">
+
+## Prerequisites 📝
+- IntelliJ IDEA (any edition) or Android Studio(IDE) to run this project
 
 ## Design Credits
 <i>Design-credit: <a href="https://www.facebook.com/alvian.teddy02">Alvian Teddy( Facebook Page )</a></i>
